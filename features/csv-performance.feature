@@ -1,7 +1,7 @@
 Feature: Testing the csv loading and saving performance
   In order to choose best data io methods,
   we want to test all csv loading and saving methods,
-  and find the best method.
+  and find the fastest method.
 
   Given A one column csv file "1col.csv"
     '''
